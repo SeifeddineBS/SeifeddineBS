@@ -21,12 +21,23 @@
 
 Full Stack Software Engineer with 3+ years of experience delivering production web applications and e-commerce platforms.
 
-- 💻 Full Stack Developer at **Kickserve GmbH**, building headless commerce platforms with Nuxt, Vue Storefront, Shopware 6 and Magento 2
+- 🟢 **Open to new full stack roles** across Germany (on site, hybrid or remote)
+- 💻 Most recently Full Stack Developer at **Kickserve GmbH**, where I built headless commerce platforms with Nuxt, Vue Storefront, Shopware 6 and Magento 2
 - ⚙️ Work across the whole stack: frontend, backend, REST APIs, databases, third-party integrations and cloud deployment
 - 🚢 Take client projects from implementation through testing to production release
-- 🤖 Use AI coding tools (Claude Code) every day, together with testing and code review
-- 📍 Based in Landsberg am Lech, open to relocation across Germany
-- 🗣️ Arabic, French, English (C1), German (B1–B2)
+- 📍 Based in Landsberg am Lech, open to relocation
+- 🗣️ Arabic (native), French (bilingual), English (fluent, C1), German (intermediate, B1–B2), Spanish (basic)
+
+---
+
+## 🤖 How I Work With AI
+
+AI coding agents are part of my daily workflow. They make me faster; the engineering judgment stays with me.
+
+- **Agentic coding:** Claude Code agents on production codebases for implementation, debugging and refactoring
+- **Context engineering:** giving agents the project context, conventions and constraints they need
+- **AI-assisted testing:** generating tests and checking changes in a real browser with Playwright
+- **Human review:** every generated change is read and validated before it ships
 
 ---
 
@@ -34,7 +45,7 @@ Full Stack Software Engineer with 3+ years of experience delivering production w
 
 | Role | Company | Period |
 | --- | --- | --- |
-| Full Stack Developer | **Kickserve GmbH** · Software development & digital commerce | Jan 2025 – Present |
+| Full Stack Developer | **Kickserve GmbH** · Software development & digital commerce | Jan 2025 – Dec 2026 |
 | Working Student, Software Developer | **iComplai** · Supply-chain risk intelligence | Nov 2023 – Dec 2024 |
 | Full Stack Developer Intern | **Hæppie Sales Space** · B2B SaaS | Feb 2023 – Nov 2023 |
 | Full Stack Developer Intern | **Tsunami IT** | Jul 2022 – Dec 2022 |
