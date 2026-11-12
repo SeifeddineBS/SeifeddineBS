@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Seifeddine BENSALAH</h1>
+<h1 align="center">Hi 👋, I'm Seifeddine Ben Salah</h1>
 
 <h3 align="center">
-  Full-Stack Web Developer 🇩🇪 <br/>
-  Passionate about building modern, scalable, and user-friendly applications
+  Full Stack Software Engineer 🇩🇪 <br/>
+  TypeScript & Vue/Nuxt · PHP & Node.js
 </h3>
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/seifeddine-ben-salah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://seifeddinebs.github.io/myportfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:seifeddine.bensalah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=seifeddinebs&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
@@ -15,22 +19,25 @@
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer based in Germany
-- ⚡ Strong focus on modern web technologies
-- 🌱 Always learning new tools & frameworks
-- 🎯 Passionate about clean UI/UX and scalable backend systems
+Full Stack Software Engineer with 3+ years of experience delivering production web applications and e-commerce platforms.
+
+- 💻 Full Stack Developer at **Kickserve GmbH**, building headless commerce platforms with Nuxt, Vue Storefront, Shopware 6 and Magento 2
+- ⚙️ Work across the whole stack: frontend, backend, REST APIs, databases, third-party integrations and cloud deployment
+- 🚢 Take client projects from implementation through testing to production release
+- 🤖 Use AI coding tools (Claude Code) every day, together with testing and code review
+- 📍 Based in Landsberg am Lech, open to relocation across Germany
+- 🗣️ Arabic, French, English (C1), German (B1–B2)
 
 ---
 
-## 🌐 Connect With Me
+## 💼 Experience
 
-<div align="center">
-
-<a href="https://linkedin.com/in/seifeddinebensalah" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin"/>
-</a>
-
-</div>
+| Role | Company | Period |
+| --- | --- | --- |
+| Full Stack Developer | **Kickserve GmbH** · Software development & digital commerce | Jan 2025 – Present |
+| Working Student, Software Developer | **iComplai** · Supply-chain risk intelligence | Nov 2023 – Dec 2024 |
+| Full Stack Developer Intern | **Hæppie Sales Space** · B2B SaaS | Feb 2023 – Nov 2023 |
+| Full Stack Developer Intern | **Tsunami IT** | Jul 2022 – Dec 2022 |
 
 ---
 
@@ -38,42 +45,22 @@
 
 <div align="center">
 
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,php,python,html,css,sass" alt="TypeScript, JavaScript, PHP, Python, HTML, CSS, SCSS" />
+
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,angular" />
+<img src="https://skillicons.dev/icons?i=vue,nuxt,angular,react,tailwind" alt="Vue, Nuxt, Angular, React, Tailwind CSS" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,django,flask,spring,dotnet" />
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,symfony,laravel" alt="Node.js, Express, Symfony, Laravel" />
 
-### Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,oracle" />
+### Data & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,elasticsearch,redis,aws,docker,linux" alt="MySQL, PostgreSQL, MongoDB, Elasticsearch, Redis, AWS, Docker, Linux" />
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,php" />
+### Delivery & Testing
+<img src="https://skillicons.dev/icons?i=git,githubactions,vitest,cypress,sentry" alt="Git, GitHub Actions, Vitest, Cypress, Sentry" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,linux,postman,graphql,heroku,photoshop,illustrator,qt" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=seifeddinebs&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifeddinebs&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifeddinebs&layout=compact&theme=tokyonight&hide_border=true" />
+**Commerce & CMS:** Shopware 6 · Magento 2 · Vue Storefront · OXID eShop · TYPO3 · Kirby · WordPress
 
 </div>
 
@@ -83,14 +70,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seifeddinebs&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ “Code. Create. Innovate.”
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=seifeddinebs&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
